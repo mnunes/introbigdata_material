@@ -65,7 +65,7 @@ O material da disciplina foi produzido a partir de várias referências espalhad
 * [DS-Zero](https://github.com/leobezerra/ds-zero)
 
 
-# Leituras complementares
+## Leituras complementares
 
 * Domingos, P. (2015). _The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World_. Basic Books.
 * O'Neil, C. (2017) _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_. Crown.
