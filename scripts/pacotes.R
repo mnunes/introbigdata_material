@@ -32,6 +32,7 @@ pacotes.necessarios <- c("caret",
                          "rvest", 
                          "scales", 
                          "stringr", 
+                         "themis", 
                          "tidymodels", 
                          "tidyverse")
 
