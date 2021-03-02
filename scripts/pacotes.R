@@ -13,7 +13,8 @@ options(repos = c(CRAN = "http://cran.rstudio.com"))
 
 # lista de pacotes necessarios
 
-pacotes.necessarios <- c("caret", 
+pacotes.necessarios <- c("AppliedPredictiveModeling",
+                         "caret", 
                          "caretEnsemble", 
                          "e1071", 
                          "factoextra", 
