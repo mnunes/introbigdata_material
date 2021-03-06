@@ -37,7 +37,8 @@ pacotes.necessarios <- c("AppliedPredictiveModeling",
                          "stringr", 
                          "themis", 
                          "tidymodels", 
-                         "tidyverse")
+                         "tidyverse",
+                         "vip")
 
 # instalacao dos pacotes que faltam na maquina
 
