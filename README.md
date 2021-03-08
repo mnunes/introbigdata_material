@@ -18,7 +18,7 @@ Há alguns programas que devem ser instalados em seu computador para que ele fiq
 
 `source("https://raw.githubusercontent.com/mnunes/introbigdata_material/main/scripts/pacotes.R")` 
 
-* É possível baixar os arquivos do curso manualmente. Entretanto, a melhor maneira de se manter atualizado com o que está ocorrendo é através do git. Crie uma conta no [github](https://github.com/) e instale o [GitHub Desktop](https://desktop.github.com/) para facilitar a sua vida. Todas essas ferramentas são gratuitas.
+* É possível baixar os arquivos do curso manualmente. Entretanto, a melhor maneira de se manter a par com o que está ocorrendo na disciplina é através do git. Crie uma conta no [github](https://github.com/) e instale o [GitHub Desktop](https://desktop.github.com/) para facilitar a sua vida. Todas essas ferramentas são gratuitas.
 
 * Com o GitHub Desktop instalado, é necessário **clonar** esse repositório em seu computador. Basta seguir dois passos para isso. O primeiro deles é ir ao menu File > Clone Repository... 
 
