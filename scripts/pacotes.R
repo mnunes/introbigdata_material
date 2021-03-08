@@ -53,7 +53,7 @@ if(length(new.packages)) {
 
 # atualizacao dos pacotes jah instalados
 
-update.packages(ask = FALSE, type = "binary")
+update.packages(ask = FALSE)
 
 print("###########################")
 print("### Pacotes atualizados ###")
