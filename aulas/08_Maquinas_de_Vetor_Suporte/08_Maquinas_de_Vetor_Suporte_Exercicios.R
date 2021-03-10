@@ -118,7 +118,7 @@ set.seed(6472)
 
 credito_treino_cv <- vfold_cv(credito_treino_t, v = 10)
 
-# ajuste do modelo
+# avaliacao do modelo
 
 credito_svm_poly_fit_tune <- 
   credito_svm_poly_tune_wflow %>% 
@@ -202,7 +202,7 @@ credito_svm_rbf_tune_wflow <-
   add_model(credito_svm_rbf_tune) %>%
   add_formula(Class ~ .)
 
-# ajuste do modelo
+# avaliacao do modelo
 
 credito_svm_rbf_fit_tune <- 
   credito_svm_rbf_tune_wflow %>% 
