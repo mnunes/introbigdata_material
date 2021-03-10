@@ -172,7 +172,7 @@ iris_knn_tune_wflow <-
   add_model(iris_knn_tune) %>%
   add_formula(Species ~ .)
 
-# ajuste do modelo
+# avaliacao do modelo
 
 iris_knn_fit_tune <- 
   iris_knn_tune_wflow %>% 

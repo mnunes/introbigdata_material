@@ -114,7 +114,7 @@ sonar_wflow_cv <-
   add_model(sonar_knn) %>%
   add_formula(class ~ .)
 
-# ajuste do modelo
+# avaliacao do modelo
 
 sonar_knn_fit_tune <- 
   sonar_wflow_cv %>% 
