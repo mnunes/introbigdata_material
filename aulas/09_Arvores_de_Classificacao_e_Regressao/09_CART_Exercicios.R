@@ -30,7 +30,7 @@ pima %>%
 
 set.seed(4236)
 
-# 70% dos dados como treino
+# 75% dos dados como treino
 
 pima_split <- initial_split(pima, prop = .75, strata = type)
 
@@ -158,7 +158,7 @@ pima_rpart_fit_tune %>%
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5)) +
   scale_colour_viridis_d()
 
-  # melhores modelos
+# melhores modelos
 
 pima_rpart_fit_tune %>%
   show_best("roc_auc")
