@@ -41,9 +41,9 @@ Há alguns programas que devem ser instalados em seu computador para que ele fiq
 
 ![](imagens/imagem04.png)
 
-* Entre regularmente no Github Desktop para realizar estas duas últimas atividades e, assim, manter-se atualizado com a disciplina. Eventuais _typos_ nos slides e nos códigos serão corrigidos dessa maneira.
+* Entre regularmente no Github Desktop para realizar as operações **Fetch origin** e  **Pull origin** para, assim, manter-se atualizado com a disciplina. Eventuais _typos_ nos slides e nos códigos serão corrigidos dessa maneira.
 
-* Bugs nos códigos, erros de digitação nos slides, conjuntos de dados faltantes e demais erros ou problemas com o material podem ser facilmente reportados [nesse link](https://github.com/mnunes/introbigdata_material/issues). Usuários avançados do github podem submeter _pull requests_.
+* Bugs nos códigos, erros de digitação nos slides, conjuntos de dados faltantes e demais erros ou problemas com o material podem ser facilmente reportados [nesse link](https://github.com/mnunes/introbigdata_material/issues). Usuários que conheçam melhor o funcionamento do github podem submeter _pull requests_.
 
 
 # Referências Bibliográficas
@@ -55,7 +55,8 @@ O material da disciplina foi produzido a partir de várias referências espalhad
 * Hastie, T. e Tibshirani, R. (2009). _The Elements of Statistical Learning: Data Mining, Inference, and Prediction_. Springer. [link](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * Izbicki, R. e dos Santos, T. M. (2020) _Aprendizado de máquina: uma abordagem estatística_. São Carlos. [link](http://www.rizbicki.ufscar.br/AME.pdf)
 * James, G., Witten, D., Hastie, T., e Tibshirani, R. (2014). _An Introduction to Statistical Learning with Applications in R_. Springer.
-* Kuhn, M. e Johnson, K. (2013). _Applied Predictive Modeling_. Springer.
+* Kuhn, M. e Johnson, K. (2013). _Applied Predictive Modeling_. Springer. [site do livro, sem seu conteúdo completo](http://appliedpredictivemodeling.com/)
+* Kuhn, M. e Johnson, K. (2019). _Feature Engineering and Selection: A Practical Approach for Predictive Models._ Taylor & Francis. [link](https://bookdown.org/max/FES/)
 * Lantz, B. (2013). _Machine Learning with R_. Packt Publishing.
 * Tan, P.-K., Steinbach, M., e Kumar, V. (2012). _Introdução ao Data Mining: Mineração de Dados_. Ciência Moderna.
 * Zhao, Y. (2012). _R and Data Mining: Examples and Case Studies_. Academic Press.
