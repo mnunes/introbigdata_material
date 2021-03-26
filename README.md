@@ -10,15 +10,15 @@ Este é um projeto de [Marcus Nunes](https://marcusnunes.me/).
 
 Há alguns programas que devem ser instalados em seu computador para que ele fique preparado para acompanhar as aulas. A lista destes programas está abaixo. Eles devem ser instalados na ordem em que estão colocados abaixo.
 
-* Instale o interpretador da linguagem de programação [R](https://www.r-project.org/). A versão 4.0.3 é a mais recente neste momento. Recomendo **fortemente** que, caso o `R` já esteja instalado em seu computador, ele seja atualizado para a versão mais atual.
+* Instale o interpretador da linguagem de programação [R](https://www.r-project.org/). A versão 4.0.5 é a mais recente neste momento. Recomendo **fortemente** que, caso o `R` já esteja instalado em seu computador, ele seja atualizado para a versão mais atual.
 
 * Instale a versão desktop gratuita do [RStudio](https://rstudio.com/products/rstudio/download/).
 
-* Há uma série de pacotes a serem instalados no `R` para que a disciplina seja acompanhada. Assim, após abrir o RStudio pela primeira vez, rode o comando abaixo para que todos os pacotes necessários sejam instalados em seu computador. O script irá verificar quais pacotes necessários para a disciplina já estão em seu computador e apenas aqueles pacotes que estiverem faltando serão baixados e instalados. Além disso, o script irá atualizar os pacotes que estiverem em versões antigas. É um comando demorado a ser executado, cuja duração dependerá da sua conexão à internet.
+* Há uma série de pacotes a serem instalados no `R` para que a disciplina seja acompanhada. Assim, após abrir o RStudio pela primeira vez, rode o comando abaixo para que todos os pacotes necessários sejam instalados em seu computador. O script irá verificar quais pacotes necessários para a disciplina já estão em seu computador e apenas aqueles pacotes que estiverem faltando serão baixados e instalados. Além disso, o script irá atualizar os pacotes que estiverem em versões antigas. É um comando demorado a ser executado, cuja duração dependerá da velocidade da sua conexão à internet.
 
 `source("https://raw.githubusercontent.com/mnunes/introbigdata_material/main/scripts/pacotes.R")` 
 
-* É possível baixar os arquivos do curso manualmente. Entretanto, a melhor maneira de se manter a par com o que está ocorrendo na disciplina é através do git. Crie uma conta no [github](https://github.com/) e instale o [GitHub Desktop](https://desktop.github.com/) para facilitar a sua vida. Todas essas ferramentas são gratuitas.
+* É possível baixar os slides e códigos da disciplina manualmente. Entretanto, a melhor maneira de se manter a par com o que está ocorrendo é através do git. Crie uma conta no [github](https://github.com/) e instale o [GitHub Desktop](https://desktop.github.com/) para facilitar a sua vida. Todas essas ferramentas são gratuitas.
 
 * Com o GitHub Desktop instalado, é necessário **clonar** esse repositório em seu computador. Basta seguir dois passos para isso. O primeiro deles é ir ao menu File > Clone Repository... 
 
