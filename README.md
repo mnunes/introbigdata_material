@@ -26,10 +26,10 @@ Há alguns programas que devem ser instalados em seu computador para que ele fiq
 
 6. Em seguida, siga os passos abaixo, na ordem em que estão colocados:
   
-  1. Clique no campo URL.
-  2. Entre com o endereço deste repositório: `mnunes/introbigdata_material`.
-  3. Escolha uma pasta em seu computador para salvar os arquivos. Eu sugiro que seja na mesma pasta em que estão os materiais de suas outras disciplinas na universidade.
-  4. Clique no botão **Clone** para copiar os arquivos para o seu computador.
+  - 1. Clique no campo URL.
+  - 2. Entre com o endereço deste repositório: `mnunes/introbigdata_material`.
+  - 3. Escolha uma pasta em seu computador para salvar os arquivos. Eu sugiro que seja na mesma pasta em que estão os materiais de suas outras disciplinas na universidade.
+  - 4. Clique no botão **Clone** para copiar os arquivos para o seu computador.
 
 ![](imagens/imagem02.png)
 
