@@ -10,40 +10,40 @@ Este é um projeto de [Marcus Nunes](https://marcusnunes.me/).
 
 Há alguns programas que devem ser instalados em seu computador para que ele fique preparado para acompanhar as aulas. A lista destes programas está abaixo. Eles devem ser instalados na ordem em que estão colocados abaixo.
 
-* Instale o interpretador da linguagem de programação [R](https://www.r-project.org/). A versão 4.0.5 é a mais recente neste momento. Recomendo **fortemente** que, caso o `R` já esteja instalado em seu computador, ele seja atualizado para a versão mais atual.
+1. Instale o interpretador da linguagem de programação [R](https://www.r-project.org/). A versão 4.0.5 é a mais recente neste momento. Recomendo **fortemente** que, caso o `R` já esteja instalado em seu computador, ele seja atualizado para a versão mais atual.
 
-* Instale a versão desktop gratuita do [RStudio](https://rstudio.com/products/rstudio/download/).
+2. Instale a versão desktop gratuita do [RStudio](https://rstudio.com/products/rstudio/download/).
 
-* Há uma série de pacotes a serem instalados no `R` para que a disciplina seja acompanhada. Assim, após abrir o RStudio pela primeira vez, rode o comando abaixo para que todos os pacotes necessários sejam instalados em seu computador. O script irá verificar quais pacotes necessários para a disciplina já estão em seu computador e apenas aqueles pacotes que estiverem faltando serão baixados e instalados. Além disso, o script irá atualizar os pacotes que estiverem em versões antigas. É um comando demorado a ser executado, cuja duração dependerá da velocidade da sua conexão à internet.
+3. Há uma série de pacotes a serem instalados no `R` para que a disciplina seja acompanhada. Assim, após abrir o RStudio pela primeira vez, rode o comando abaixo para que todos os pacotes necessários sejam instalados em seu computador. O script irá verificar quais pacotes necessários para a disciplina já estão em seu computador e apenas aqueles pacotes que estiverem faltando serão baixados e instalados. Além disso, o script irá atualizar os pacotes que estiverem em versões antigas. É um comando demorado a ser executado, cuja duração dependerá da velocidade da sua conexão à internet.
 
 `source("https://raw.githubusercontent.com/mnunes/introbigdata_material/main/scripts/pacotes.R")` 
 
-* É possível baixar os slides e códigos da disciplina manualmente. Entretanto, a melhor maneira de se manter a par com o que está ocorrendo é através do git. Crie uma conta no [github](https://github.com/) e instale o [GitHub Desktop](https://desktop.github.com/) para facilitar a sua vida. Todas essas ferramentas são gratuitas.
+4. É possível baixar os slides e códigos da disciplina manualmente. Entretanto, a melhor maneira de se manter a par com o que está ocorrendo é através do git. Crie uma conta no [github](https://github.com/) e instale o [GitHub Desktop](https://desktop.github.com/) para facilitar a sua vida. Todas essas ferramentas são gratuitas.
 
-* Com o GitHub Desktop instalado, é necessário **clonar** esse repositório em seu computador. Basta seguir dois passos para isso. O primeiro deles é ir ao menu File > Clone Repository... 
+5. Com o GitHub Desktop instalado, é necessário **clonar** esse repositório em seu computador. Basta seguir dois passos para isso. O primeiro deles é ir ao menu File > Clone Repository... 
 
 ![](imagens/imagem01.png)
 
-* Em seguida, siga os passos abaixo, na ordem em que estão colocados:
+6. Em seguida, siga os passos abaixo, na ordem em que estão colocados:
   
-  1. Clique no campo URL
-  2. Entre com o endereço deste repositório: `mnunes/introbigdata_material`
-  3. Escolha uma pasta em seu computador para salvar os arquivos (sugiro que seja na mesma pasta em que estão os materiais de suas outras disciplinas na universidade)
-  4. Clique no botão **Clone** para copiar os arquivos para o seu computador
+  1. Clique no campo URL.
+  2. Entre com o endereço deste repositório: `mnunes/introbigdata_material`.
+  3. Escolha uma pasta em seu computador para salvar os arquivos. Eu sugiro que seja na mesma pasta em que estão os materiais de suas outras disciplinas na universidade.
+  4. Clique no botão **Clone** para copiar os arquivos para o seu computador.
 
 ![](imagens/imagem02.png)
 
-* Sempre que for necessário atualizar o material, clique no botão **Fetch origin**, localizado na barra superior da tela. 
+7. Sempre que for necessário atualizar o material, clique no botão **Fetch origin**, localizado na barra superior da tela. 
 
 ![](imagens/imagem03.png)
 
-* Se houver uma ou mais atualizações a serem baixadas, clique na mensagem **Pull origin**, que aparecerá no mesmo botão.
+8. Se houver uma ou mais atualizações a serem baixadas, clique na mensagem **Pull origin**, que aparecerá no mesmo botão.
 
 ![](imagens/imagem04.png)
 
-* Entre regularmente no Github Desktop para realizar as operações **Fetch origin** e  **Pull origin** para, assim, manter-se atualizado com a disciplina. Eventuais _typos_ nos slides e nos códigos serão corrigidos dessa maneira.
+9. Entre regularmente no Github Desktop para realizar as operações **Fetch origin** e  **Pull origin** para, assim, manter-se atualizado com a disciplina. Eventuais _typos_ nos slides e nos códigos serão corrigidos dessa maneira.
 
-* Bugs nos códigos, erros de digitação nos slides, conjuntos de dados faltantes e demais erros ou problemas com o material podem ser facilmente reportados [nesse link](https://github.com/mnunes/introbigdata_material/issues). Usuários que conheçam melhor o funcionamento do github podem submeter _pull requests_.
+10. Bugs nos códigos, erros de digitação nos slides, conjuntos de dados faltantes e demais erros ou problemas com o material podem ser facilmente reportados [nesse link](https://github.com/mnunes/introbigdata_material/issues). Usuários que conheçam melhor o funcionamento do github podem submeter _pull requests_.
 
 
 # Referências Bibliográficas
