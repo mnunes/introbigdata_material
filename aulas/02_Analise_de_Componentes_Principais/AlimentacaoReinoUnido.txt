@@ -1,0 +1,18 @@
+Alimento	Inglaterra	País de Gales	Escócia	Irlanda do Norte
+Queijo	105	103	103	66
+Carne Fresca	245	227	242	267
+Outras Carnes	685	803	750	586
+Peixe	147	160	122	93
+Gorduras e Óleos	193	235	184	209
+Açúcares	156	175	147	139
+Batatas	720	874	566	1033
+Vegetais Frescos	253	265	171	143
+Outros Vegetais	488	570	418	355
+Batatas Processadas	198	203	220	187
+Vegetais Processados	360	365	337	334
+Frutas Frescas	1102	1137	957	674
+Cereais	1472	1582	1462	1494
+Refrescos	57	73	53	47
+Refrigerantes	1374	1256	1572	1506
+Bebidas Alcoólicas	375	475	458	135
+Confeitarias	54	64	62	41
