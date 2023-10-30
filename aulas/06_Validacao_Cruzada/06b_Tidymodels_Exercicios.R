@@ -24,7 +24,7 @@ mpg2 %>%
 
 ggplot(mpg2, aes(x = displ, y = hwy)) + 
   geom_point() +
-  labs(x = "Consumo na Cidade", y = "Consumo na Estrada")
+  labs(x = "Tamanho do Motor", y = "Consumo na Estrada")
 
 
 
@@ -180,6 +180,8 @@ ggplot(resultado_multipla, aes(x = hwy, y = predicao_lm)) +
   coord_fixed()
 
 # ambos os resultados
+
+library(reshape2)
 
 left_join(resultado, resultado_multipla, by = "hwy") %>%
   select(hwy, 
